@@ -1,0 +1,23 @@
+label {
+    color: black;
+}
+hr {
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.label_title{
+    font-size: 14pt
+}
+.class_span{
+    color: red;
+}
+
+.full_size{
+    width: 100%;
+}
+
+.black_white{
+    background: black;
+    color: white;
+}
